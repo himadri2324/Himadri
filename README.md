@@ -48,6 +48,8 @@ const himadri = {
 ![Wazuh](https://img.shields.io/badge/Wazuh-9945FF?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-F16822?style=for-the-badge&logo=splunk&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK+Stack-000000?style=for-the-badge&logo=elk+stack&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-F7DF1E?style=for-the-badge&logo=thehive&logoColor=black)
+![Cortex](https://img.shields.io/badge/cortex-20232A?style=for-the-badge&logo=p=cortex&logoColor=61DAFB)
 
 **Databases & Cloud**
 
