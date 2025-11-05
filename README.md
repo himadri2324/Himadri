@@ -30,7 +30,8 @@ const himadri = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+      <!-- Left Column (40%) -->
+    <td style="width:40%; vertical-align:top; padding-right:20px;">
 
 ### 🛠️ Tech Stack
 
@@ -100,7 +101,8 @@ const himadri = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+    <!-- Right Column (60%) -->
+        <td style="width:60%; vertical-align:top; padding-left:20px;">
 
 ### 🔥 What I'm Working On
 
