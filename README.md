@@ -102,21 +102,6 @@ const himadri = {
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Current Focus Areas
-
-<div align="center">
-
-💼 | 🔍 | ☁️ | 🧠  
-:--:|:--:|:--:|:--:
-**SIEM Automation** | **Threat Detection** | **Cloud Security** | **DFIR Lab**
-Automating alert workflows using Tines & Wazuh | Creating advanced correlation rules | Integrating Sentinel with Defender for Cloud | Performing forensic analysis using Volatility & Autopsy
-
-</div>
-
-> 💡 *Mission: Bridging automation, cloud, and forensics to build resilient security operations.*
-
----
-
 ### 🔥 What I'm Working On
 
 <table>
