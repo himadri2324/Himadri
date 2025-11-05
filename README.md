@@ -164,10 +164,10 @@ const himadri = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourtwitter/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourmedium/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yourlinkedin/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge)](https://x.com/yourtwitter/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@yourmedium/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge)](https://t.me/yourtelegram/)
 
 </div>
 
