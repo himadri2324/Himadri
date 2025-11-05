@@ -5,8 +5,16 @@
 
 </div>
 
-<!-- Animated Vibrant Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Himadri%20Singh&fontAlignY=35&fontSize=45&color=gradient&customColorList=0,2,3,10,15,20,25&fontColor=ffffff&animation=twinkling&reversal=true&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Cloud%20Security&descAlignY=60&descAlign=50"/>
+<!-- Animated Light Gradient Wave Header with Image -->
+<div align="center">
+
+<!-- Profile Image (Circular) -->
+<img src="https://github.com/him4dri.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00E5FF;" alt="Himadri Singh Profile"/>
+
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Himadri%20Singh&fontAlignY=40&fontSize=45&color=gradient&customColorList=1,4,6,8,12,14&fontColor=2E2E2E&animation=twinkling&reversal=true"/>
+
+</div>
 
 <!-- Animated wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himadri%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
