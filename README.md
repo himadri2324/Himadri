@@ -128,8 +128,6 @@ const himadri = {
 
 ---
 
----
-
 ### 🧩 Ongoing Projects & Research
 
 - **🚀 SIEM Automation Initiative** — Architecting intelligent alert enrichment and triage pipelines using *Tines, Wazuh,* and *Python scripting*.
