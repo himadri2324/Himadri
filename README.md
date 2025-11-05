@@ -140,24 +140,43 @@ const himadri = {
 </div>
 
 ---
-<!-- Projects I'm Working On Side by Side -->
+<!-- Featured Projects Section -->
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-### 📁 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
-| 🔍 **SIEM Detection Lab** | Built ELK-based detection environment, created 10+ custom correlation rules, simulated brute-force & malware traffic. | ELK, Wazuh, Zeek |
-| ☁️ **Azure Cloud Threat Monitoring** | Deployed Sentinel for cloud logs, integrated Defender alerts, created custom KQL queries. | Azure Sentinel, KQL |
-| 🧠 **DFIR Investigation Case** | Performed Windows memory analysis using Volatility to trace malicious persistence. | Volatility, Autopsy |
-| 🔧 **SOAR Automation** | Automated alert enrichment using Tines API workflows. | Tines, Python |
+  <h2>📁 Featured Projects</h2>
 
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <th align="left" style="width:25%; border-bottom: 2px solid #555;">Project</th>
+      <th align="left" style="width:55%; border-bottom: 2px solid #555;">Description</th>
+      <th align="left" style="width:20%; border-bottom: 2px solid #555;">Tools</th>
+    </tr>
 
-</td>
-</tr>
-</table>
+    <tr>
+      <td><a href="https://github.com/yourusername/SIEM-Detection-Lab">🔍 <b>SIEM Detection Lab</b></a></td>
+      <td>Built an ELK-based detection environment, created 10+ custom correlation rules, and simulated brute-force & malware traffic.</td>
+      <td>ELK Stack, Wazuh, Zeek</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/yourusername/Azure-Threat-Monitoring">☁️ <b>Azure Cloud Threat Monitoring</b></a></td>
+      <td>Deployed Microsoft Sentinel for cloud log ingestion, integrated Defender for Cloud alerts, and created custom KQL-based detections.</td>
+      <td>Azure Sentinel, KQL</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/yourusername/DFIR-Investigation-Case">🧠 <b>DFIR Investigation Case</b></a></td>
+      <td>Performed Windows memory and disk analysis using Volatility and Autopsy to trace persistence and exfiltration artifacts.</td>
+      <td>Volatility, Autopsy</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/yourusername/SOAR-Automation">🔧 <b>SOAR Automation</b></a></td>
+      <td>Automated alert enrichment workflows with Tines API to triage IOC data from VirusTotal and AbuseIPDB automatically.</td>
+      <td>Tines, Python</td>
+    </tr>
+
+  </table>
 
 </div>
 
