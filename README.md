@@ -168,10 +168,10 @@ const himadri = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yourlinkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/himadri-singh-6a6927261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge)](https://x.com/yourtwitter/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@yourmedium/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge)](https://t.me/yourtelegram/)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge)](https://signal.me/#p/yourprofile)
 
 </div>
 
