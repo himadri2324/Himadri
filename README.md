@@ -36,55 +36,68 @@ const himadri = {
 
 **Languages & Frameworks**
 
-![Bash](https://img.shields.io/badge/Bash-007ACC?style=for-the-badge&logo=bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Powershell](https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=61DAFB)
-![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge&logo=spl&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-339933?style=for-the-badge&logo=sql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-F16822?style=for-the-badge&logo=kql&logoColor=black)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
 
 **SIEM & SOAR**
 
-![Wazuh](https://img.shields.io/badge/Wazuh-9945FF?style=for-the-badge&logo=wazuh&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-F16822?style=for-the-badge&logo=misp&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK+Stack-000000?style=for-the-badge&logo=elk+stack&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-F7DF1E?style=for-the-badge&logo=thehive&logoColor=black)
-![Cortex](https://img.shields.io/badge/cortex-20232A?style=for-the-badge&logo=p=cortex&logoColor=61DAFB)
+![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-F7C600?style=for-the-badge&logo=thehive&logoColor=black)
+![Cortex](https://img.shields.io/badge/Cortex-2E2E2E?style=for-the-badge&logo=cortex&logoColor=white)
+![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-1E90FF?style=for-the-badge&logo=shuffle&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-E40045?style=for-the-badge&logo=graylog&logoColor=white)
+
+---
 
 **Cloud**
 
-![Azure](https://img.shields.io/badge/Azure-4EA94B?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=google-gcp&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
 
 **Network & Security Tools**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-F7DF1E?style=for-the-badge&logo=suricata&logoColor=black)
-![Snort](https://img.shields.io/badge/Snort-20232A?style=for-the-badge&logo=snort&logoColor=61DAFB)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-339933?style=for-the-badge&logo=metasploit&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-3776AB?style=for-the-badge&logo=tcpdump&logoColor=white)
-![pfsense](https://img.shields.io/badge/pfsense-F16822?style=for-the-badge&logo=pfsense&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-F15A24?style=for-the-badge&logo=snort&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0056A6?style=for-the-badge&logo=metasploit&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-2C3539?style=for-the-badge&logo=linux&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+
+---
 
 **Automation & Monitoring**
 
-![Splunk SOAR](https://img.shields.io/badge/Splunk+SOAR-007ACC?style=for-the-badge&logo=splunksoar&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-F7DF1E?style=for-the-badge&logo=graylog&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-20232A?style=for-the-badge&logo=prometheus&logoColor=61DAFB)
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-339933?style=for-the-badge&logo=nagios&logoColor=white)
+![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-F16822?style=for-the-badge&logo=splunk&logoColor=black)
+![Graylog](https://img.shields.io/badge/Graylog-E40045?style=for-the-badge&logo=graylog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-2E2E2E?style=for-the-badge&logo=nagios&logoColor=white)
+
+---
 
 **Virtualization & OS**
 
-![VMware Workstation](https://img.shields.io/badge/VMware+Workstation-007ACC?style=for-the-badge&logo=VMware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-F7DF1E?style=for-the-badge&logo=VirtualBox&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows+Server-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)
-![Kali Linux](https://img.shields.io/badge/Kali+Linux-000000?style=for-the-badge&logo=Kali&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-339933?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Active Directory (AD)](https://img.shields.io/badge/AD-3776AB?style=for-the-badge&logo=AD&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-F16822?style=for-the-badge&logo=docker&logoColor=black)
+![VMware Workstation](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
