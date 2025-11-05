@@ -102,6 +102,39 @@ const himadri = {
 </td>
 <td width="50%" valign="top">
 
+### 🔥 What I'm Working On
+
+<table>
+<tr><td>
+
+🚀 **SIEM Automation Project**  
+*Designing advanced detection rules and automating alert triage pipelines using Tines and Wazuh.*  
+💡 *Goal:* Reduce analyst response time and improve alert accuracy.
+
+</td></tr>
+<tr><td>
+
+☁️ **Azure Security Monitoring**  
+*Building end-to-end visibility with Microsoft Sentinel and Defender for Cloud.*  
+📊 *Focus:* Creating custom KQL queries for proactive threat detection.
+
+</td></tr>
+<tr><td>
+
+🧠 **DFIR Investigation Lab**  
+*Simulating and investigating cyber incidents using Volatility, Autopsy, and Splunk.*  
+🔍 *Objective:* Strengthen digital forensic and incident response workflows.
+
+</td></tr>
+<tr><td>
+
+🛠️ **Open Source SOC Playbooks**  
+*Contributing to blue-team automation repositories and sharing threat detection use-cases.*  
+🌐 *Impact:* Empowering the community with reusable detection and response logic.
+
+</td></tr>
+</table>
+
 ### 🧩 Ongoing Projects & Research
 
 - **🚀 SIEM Automation Initiative** — Architecting intelligent alert enrichment and triage pipelines using *Tines, Wazuh,* and *Python scripting*.
