@@ -169,9 +169,9 @@ const himadri = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/himadri-singh-6a6927261/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge)](https://x.com/yourtwitter/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@yourmedium/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge)](https://x.com/LittleSun4lower)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@himadrisingh061)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:5inghhim4dri@gmail.com)
 
 </div>
 
