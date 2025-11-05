@@ -179,13 +179,15 @@ const himadri = {
 
 <div align="center">
 💙 *“Thanks for visiting! Let’s connect and make security smarter together.”*  
-⭐ If you liked my projects, consider giving them a star!
+⭐ *If you liked my projects, consider giving them a star!*
 </div>
 
 ### 📊 Visitor Analytics
-  
-![Visitor Count](https://profile-counter.glitch.me/bhu1tyagi/count.svg)
-[![GitHub Badge](https://img.shields.io/github/followers/bhu1tyagi?style=social)](https://github.com/bhu1tyagi)
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/him4dri/count.svg)  
+[![GitHub Followers](https://img.shields.io/github/followers/him4dri?style=social)](https://github.com/him4dri)
 
 </div>
 
