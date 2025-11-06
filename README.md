@@ -143,9 +143,9 @@ const himadri = {
 <!-- Featured Projects Section -->
  ## 📁 Featured Projects
 
-| Project | Description | Tools |
+| Project | Description | Tools/Technologies |
 |----------|--------------|--------|
-| 🔍 [**SIEM Detection Lab**](https://github.com/yourusername/SIEM-Detection-Lab) | Built an ELK-based detection environment, created 10+ custom correlation rules, and simulated brute-force & malware traffic. | ELK Stack, Wazuh, Zeek |
+| 🔍 [**Brutesight**](https://github.com/yourusername/SIEM-Detection-Lab) | ELK-based security system detecting and auto-blocking brute force attacks in real-time. | VMware Workstation, ELK Stack, Sysmon, Mythic, Kali Linux (VM), Windows Server, Ubuntu 22.04 LTS |
 | ☁️ [**Azure Cloud Threat Monitoring**](https://github.com/yourusername/Azure-Threat-Monitoring) | Deployed Microsoft Sentinel for cloud log ingestion, integrated Defender for Cloud alerts, and created custom KQL-based detections. | Azure Sentinel, KQL |
 | 🧠 [**DFIR Investigation Case**](https://github.com/yourusername/DFIR-Investigation-Case) | Performed Windows memory and disk analysis using Volatility and Autopsy to trace persistence and exfiltration artifacts. | Volatility, Autopsy |
 | 🔧 [**SOAR Automation**](https://github.com/yourusername/SOAR-Automation) | Automated alert enrichment workflows with Tines API to triage IOC data from VirusTotal and AbuseIPDB automatically. | Tines, Python |
@@ -183,14 +183,3 @@ If you liked my projects, consider giving them a star!⭐
 </div>
 
 
-### 📊 Visitor Analytics
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/him4dri/count.svg)  
-[![GitHub Followers](https://img.shields.io/github/followers/him4dri?style=social)](https://github.com/him4dri)
-
-</div>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
