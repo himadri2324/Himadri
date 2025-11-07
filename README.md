@@ -162,7 +162,7 @@ const himadri = {
 ---
 
 ### Platforms & Profiles
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge)](https://tryhackme.com/p/Snowystar)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge)](https://tryhackme.com/p/LittleSun4lower)  
 
 ---
 
