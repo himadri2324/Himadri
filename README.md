@@ -187,16 +187,11 @@ If you liked my projects, consider giving them a star!⭐
 
 ---
 
-- name: Generate Sunflower Animation
-  uses: Platane/snk@v3
-  with:
-    github_user_name: himadri2324
-    outputs: |
-      dist/sunflower.svg
-    palette: "yellow,orange,brown"
-    snake_color: "#FFD700"
-    snake_head: "🌻"
-    snake_tail: "🌻"
+## 🌻 Sunflower Contribution Garden
+Watch my sunflower bloom as I contribute 🌞
+
+![Sunflower animation](https://raw.githubusercontent.com/himadri2324/himadri2324/output/sunflower.svg)
+
 
 
 
