@@ -185,4 +185,13 @@ const himadri = {
 If you liked my projects, consider giving them a star!⭐
 </div>
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFC300&center=true&vCenter=true&width=650&lines=🌻+Keep+Growing,+Keep+Glowing!+🌻" alt="Sunflower animation" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=🌻+Sunflower+Mode+Activated+🌻&fontSize=24&fontColor=000&animation=twinkling"/>
+
+
 
