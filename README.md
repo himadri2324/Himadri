@@ -188,10 +188,17 @@ If you liked my projects, consider giving them a star!⭐
 ---
 
 <div align="center">
-  <svg width="140" height="140" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="60" cy="60" r="15" fill="#6B3E26" /> <!-- Center (seed) -->
-    <!-- Petals -->
-    <g fill="#FFD700">
+  <svg width="150" height="150" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes glow { 
+        0% { filter: drop-shadow(0 0 2px #FFD700); }
+        50% { filter: drop-shadow(0 0 10px #FFEA00); }
+        100% { filter: drop-shadow(0 0 2px #FFD700); }
+      }
+      .petal { animation: glow 3s infinite; }
+    </style>
+    <circle cx="60" cy="60" r="15" fill="#6B3E26" />
+    <g class="petal" fill="#FFD700">
       <ellipse cx="60" cy="25" rx="8" ry="20" />
       <ellipse cx="60" cy="95" rx="8" ry="20" />
       <ellipse cx="25" cy="60" rx="20" ry="8" />
@@ -201,9 +208,7 @@ If you liked my projects, consider giving them a star!⭐
       <ellipse cx="35" cy="85" rx="12" ry="25" transform="rotate(45 35 85)" />
       <ellipse cx="85" cy="85" rx="12" ry="25" transform="rotate(-45 85 85)" />
     </g>
-    <!-- Stem and leaves -->
     <rect x="57" y="100" width="6" height="40" fill="#228B22" />
-    <path d="M63 120 Q75 110 85 120" stroke="#228B22" stroke-width="5" fill="none" />
   </svg>
   <br/>
   <h3 style="color:#FFD700;">🌻 Keep Growing, Keep Glowing 🌻</h3>
