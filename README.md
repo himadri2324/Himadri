@@ -66,7 +66,6 @@ const himadri = {
 ![TheHive](https://img.shields.io/badge/TheHive-F7C600?style=for-the-badge&logo=thehive&logoColor=black)
 ![Cortex](https://img.shields.io/badge/Cortex-2E2E2E?style=for-the-badge&logo=cortex&logoColor=white)
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-1E90FF?style=for-the-badge&logo=shuffle&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-E40045?style=for-the-badge&logo=graylog&logoColor=white)
 
 ---
 
