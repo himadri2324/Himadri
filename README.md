@@ -18,10 +18,22 @@ const himadri = {
   role: "SOC Analyst, Cybersecurity Enthusiast",
   location: "India 🇮🇳",
   passions: ["SOC Operations", "Cloud Security", "SIEM", "SOAR", "Automation"],
-  currentFocus: "Building hands-on projects to strength my skills",
+  currentFocus: "Building hands-on projects to strengthen my skills",
   funFact: "I sleep better after checking all system logs💻",
 };
 ```
+---
+
+### 🧑‍💼 Professional Experience
+
+**SOC Analyst Intern – Gardiyan System Security Technologies (Remote)**
+- Performed SIEM alert triage and log analysis
+- Supported SOAR-based response workflows
+- Worked with cloud security monitoring tools
+
+**IT Operations Intern – Honda Cars India Ltd**
+- Configured and optimized FortiGate firewalls
+- Improved network security posture
 
 ---
 
@@ -130,7 +142,7 @@ const himadri = {
 
 ### 🧩 Ongoing Projects & Research
 
-- 🚀 Currectly working on the SIEM projects and focusing on create, monitor, detect, respond and secure.
+- 🚀 Currently working on SIEM projects, focusing on creating, monitoring, detecting, responding to, and securing systems.
 > 🎯 *Every project is focused on building smarter, automated, and evidence-driven defense systems.*
 
 </td>
