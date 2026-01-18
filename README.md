@@ -147,6 +147,7 @@ const himadri = {
 
 | Project | Description | Tools/Technologies |
 |----------|--------------|--------|
+| [**SSHield**](https://github.com/himadri2324/SSHield) | Automated SSH brute-force detection and alerting using n8n automation workflows. | Ubuntu, VMware, Docker, n8n, JavaScript, Webhooks, Gmail OAuth2 |
 | [**Securex**](https://github.com/himadri2324/securex-SOC) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
 | [**CloudSOC**](https://github.com/himadri2324/cloudSOC) | Cloud-based SOC integrating SIEM detection with automated SOAR incident response. | Elastic SIEM, Elasticsearch, Kibana, Microsoft Azure, Azure Logic Apps, Azure Logic Apps-based SOAR playbooks|
 | [**SIEMSOC**](https://github.com/himadri2324/SIEMSOC) | Real-time SOC implementation using SIEM to detect, analyze, and investigate security incidents. | ElasticSIEM, Elasticsearch, Kibana, Winlogbeat, Windows Event Logs, Ubuntu 22.04 LTS VM |
