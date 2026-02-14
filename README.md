@@ -11,12 +11,18 @@
 ---
 
 ### 👨‍💻 About Me
-🚀 I’m a Cybersecurity Student and SOC Analyst passionate about Cloud, Threat Detection, and Security Automation.
+🚀 SOC Analyst focused on threat detection, SIEM engineering, and security automation across on-prem and cloud environments.
+* 🛡️ Specialized in SOC operations & log analysis
+* ☁️ Working across cloud + hybrid security monitoring
+* 🤖 Building detection & SOAR automation projects
+* 📈 Top 3% on TryHackMe
+* 🎥 Create cybersecurity & SOC learning content on YouTube and Medium
 
 ```typescript
 const himadri = {
-  role: "SOC Analyst, Cybersecurity Enthusiast",
+  role: "SOC Analyst",
   location: "India 🇮🇳",
+  rank: "Top 3% TryHackMe",
   passions: ["SOC Operations", "Cloud Security", "SIEM", "SOAR", "Automation"],
   currentFocus: "Building hands-on projects to strengthen my skills",
   funFact: "I sleep better after checking all system logs💻",
@@ -34,7 +40,26 @@ const himadri = {
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**SIEM & Detection**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elasticsearch-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-F7C600?style=for-the-badge&logo=thehive&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-2E2E2E?style=for-the-badge&logo=cortex&logoColor=white)
+
+---
+
+**SOAR & Automation**
+
+![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
+![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-F16822?style=for-the-badge&logo=splunk&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
+![Logic Apps](https://img.shields.io/badge/Logic%20Apps-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+---
+
+**Languages & Query**
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,25 +71,6 @@ const himadri = {
 
 ---
 
-**SIEM & SOAR**
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-F7C600?style=for-the-badge&logo=thehive&logoColor=black)
-![Cortex](https://img.shields.io/badge/Cortex-2E2E2E?style=for-the-badge&logo=cortex&logoColor=white)
-![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-1E90FF?style=for-the-badge&logo=shuffle&logoColor=white)
-
----
-
-**Cloud**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
 **Network & Security Tools**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -72,31 +78,24 @@ const himadri = {
 ![Snort](https://img.shields.io/badge/Snort-F15A24?style=for-the-badge&logo=snort&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0056A6?style=for-the-badge&logo=metasploit&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-2C3539?style=for-the-badge&logo=linux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 
 ---
 
-**Automation & Monitoring**
+**Cloud & Platforms**
 
-![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-F16822?style=for-the-badge&logo=splunk&logoColor=black)
-![Graylog](https://img.shields.io/badge/Graylog-E40045?style=for-the-badge&logo=graylog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-2E2E2E?style=for-the-badge&logo=nagios&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
-**Virtualization & OS**
+**Virtualization**
 
 ![VMware Workstation](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -160,16 +159,20 @@ const himadri = {
  ---
  
 ### 🎓 Certifications & Learning
+- TryHackMe **Pre-Security**
+- TryHackMe **Cybersecurity 101**
 - Cisco **Introduction to Cybersecurity**
-- Google **Cybersecurity Professional Certificate**
-- TryHackMe **SOC Level 1**
-- Tines **Automation Specialist (Free Course)**
+- NPTEL **Introduction to Internet of Things**
+- LinkedIn Learning **Introduction to Linux**
 
 ---
 
 ### Platforms & Profiles
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge)](https://tryhackme.com/p/LittleSun4lower)  
 [![Bluesky](https://img.shields.io/badge/Bluesky-@sun4lower-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sun4lower.bsky.social)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LittleSun4lower)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@himadrisingh061)
+
 
 ---
 
@@ -179,7 +182,6 @@ const himadri = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/himadri-singh-6a6927261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge)](https://x.com/LittleSun4lower)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@himadrisingh061)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:5inghhim4dri@gmail.com)
 
 </div>
