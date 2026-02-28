@@ -22,7 +22,7 @@
 const himadri = {
   role: "SOC Analyst",
   location: "India 🇮🇳",
-  rank: "Top 3% TryHackMe",
+  rank: "Top 2% TryHackMe",
   passions: ["SOC Operations", "Cloud Security", "SIEM", "SOAR", "Automation"],
   currentFocus: "Building hands-on projects to strengthen my skills",
   funFact: "I sleep better after checking all system logs💻",
