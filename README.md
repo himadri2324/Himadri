@@ -159,8 +159,9 @@ const himadri = {
  ---
  
 ### 🎓 Certifications & Learning
-- TryHackMe **Pre-Security**
+- TryHackMe **SOC Level 1**
 - TryHackMe **Cybersecurity 101**
+- TryHackMe **Pre-Security**
 - Cisco **Introduction to Cybersecurity**
 - NPTEL **Introduction to Internet of Things**
 - LinkedIn Learning **Introduction to Linux**
