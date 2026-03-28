@@ -154,6 +154,8 @@ const himadri = {
 
 </div>
 
+----
+
 <!-- Featured Projects Section -->
  ## 📁 Featured Projects
 
