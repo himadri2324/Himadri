@@ -210,6 +210,6 @@ const himadri = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
-💙 Open to SOC Analyst, Security Analyst, and Cloud Security roles. Let's connect and build more secure systems together.<br><br>
+💙 Open to SOC Analyst and Security Analyst roles. Let's connect and build more secure systems together.<br><br>
 If you found my projects useful, a ⭐ goes a long way!
 </div>
