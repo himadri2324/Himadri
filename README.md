@@ -166,7 +166,7 @@ const himadri = {
 | [**SIEMSOC**](https://github.com/himadri2324/SIEMSOC) | Real-time SOC implementation to detect, analyze, and investigate security incidents. | Elastic SIEM, Elasticsearch, Kibana, Winlogbeat, Windows Event Logs, Ubuntu 22.04 |
 | [**Authlog**](https://github.com/himadri2324/Authlog) | Windows authentication log analysis using Elastic SIEM for brute-force detection. | Windows 10, Winlogbeat, Elasticsearch, Kibana, VMware, Ubuntu 22.04 |
 | [**SSHield**](https://github.com/himadri2324/SSHield) | Automated SSH brute-force detection and alerting using n8n automation workflows. | Ubuntu, VMware, Docker, n8n, JavaScript, Webhooks, Gmail OAuth2 |
-| [**AgenticSOC**](https://github.com/himadri2324/AgenticSOC) | AI-powered SOC automation system that detects, analyzes, enriches, and responds to security incidents automatically. | Python, Splunk, n8n, AbuseIPDB API, VirusTotal API, Slack, Jira, Virtual Machine (Azure) |
+| [**AgenticSOC**](https://github.com/himadri2324/AgenticSOC) | Agentic SOC automates detection, enrichment, and response using Splunk, n8n, and threat intelligence APIs. | Python, Splunk, n8n, AbuseIPDB API, VirusTotal API, Slack, Jira, Virtual Machine (Azure) |
 
 </div>
 
