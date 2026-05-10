@@ -1,7 +1,7 @@
 <!-- Header with animated typing effect -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+🛡️;SIEM+\&+Threat+Detection+🚀;Security+Automation+\&+Blue+Team+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+🛡️;SIEM+&+Threat+Detection+🚀;Security+Automation+&+Blue+Team+⚡)](https://git.io/typing-svg)
 
 </div>
 
