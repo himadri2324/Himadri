@@ -1,7 +1,7 @@
 <!-- Header with animated typing effect -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+🛡️;Cybersecurity+Enthusiast+🚀;Building+Secure+Futures+🌐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+🛡️;SIEM+\&+Threat+Detection+🚀;Security+Automation+\&+Blue+Team+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -46,7 +46,6 @@ const himadri = {
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Elastic SIEM](https://img.shields.io/badge/Elasticsearch-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-F7C600?style=for-the-badge&logo=thehive&logoColor=black)
 ![Splunk](https://img.shields.io/badge/Splunk-2E2E2E?style=for-the-badge&logo=cortex&logoColor=white)
 
 ---
@@ -56,7 +55,6 @@ const himadri = {
 ![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-F16822?style=for-the-badge&logo=splunk&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
-![Logic Apps](https://img.shields.io/badge/Logic%20Apps-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ---
 
@@ -76,7 +74,6 @@ const himadri = {
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-F15A24?style=for-the-badge&logo=snort&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0056A6?style=for-the-badge&logo=metasploit&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
@@ -131,9 +128,12 @@ const himadri = {
 
 ---
 
-### 🧩 Learning Philosophy
+### 🎯 Current Focus
 
-🎯 *Focused on building strong fundamentals in SOC and cloud security first, while continuously expanding knowledge across networking, governance, and offensive security domains.*
+- Building SOC automation workflows using Splunk, Elastic SIEM, and n8n.
+- Detection engineering using Sysmon and Windows Event Logs.
+- Threat detection and alert enrichment using threat intelligence APIs.
+- Expanding cloud security monitoring capabilities in Azure.
 
 </td>
 </tr>
