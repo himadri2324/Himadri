@@ -23,10 +23,10 @@ const himadri = {
   },
   contentCreator: {
     youtube: "Cybersecurity & SOC tutorials",
-    medium: "Technical blogs on SOC, SIEM, and cloud security",
-    twitter: "Daily security insights, labs & writeups",
+    medium: "Technical blogs on cyber security",
+    twitter: "Daily work relate to cyber security",
   },
-  currentFocus: "Advancing detection engineering & cloud-native SOC capabilities",
+  currentFocus: "Learning, implementing and improving.",
 };
 ```
 
