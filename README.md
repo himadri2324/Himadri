@@ -1,7 +1,7 @@
 <!-- Header with animated typing effect -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+🛡️;SIEM+and+Threat+Detection+🚀;Security+Automation+and+Blue+Team+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+🛡️;SIEM+and+Threat+Detection+🚀;IT+Governance+and+Compliance+📋;Security+Automation+and+Blue+Team+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,12 +11,16 @@
 ---
 
 ### 👨‍💻 About Me
-🚀 SOC Analyst specializing in **threat detection**, **SIEM engineering**, and **security automation** across on-prem and cloud environments. I build hands-on projects, write technical content, and create cybersecurity learning resources to help others grow in the field.
+🚀 SOC Analyst specializing in **threat detection**, **SIEM engineering**, and **security automation** across on-prem and cloud environments. I also work on the **IT Governance** side, currently supporting RBI IT Governance compliance and audit documentation for an NBFC client. I build hands-on projects, write technical content, and create cybersecurity learning resources to help others grow in the field.
 ```typescript
 const himadri = {
-  role: "SOC Analyst",
+  role: "SOC Analyst | IT Governance",
   location: "India 🇮🇳",
-  focus: ["Threat Detection", "SIEM Engineering", "SOAR Automation", "Cloud Security"],
+  focus: ["Threat Detection", "SIEM Engineering", "SOAR Automation", "Cloud Security", "IT Governance & Compliance"],
+  currentEngagement: {
+    role: "IT Governance & PMO (SPOC)",
+    scope: "Supporting RBI IT Governance compliance for an NBFC client",
+  },
   tryhackme: {
     rank: "Top 2%",
     roomsCompleted: "100+",
@@ -29,6 +33,26 @@ const himadri = {
   currentFocus: "Learning, implementing and improving.",
 };
 ```
+
+---
+
+### 💼 Professional Experience
+
+**IT Governance & PMO (SPOC)** — Arvyn Technology Consulting Pvt. Ltd. *(June 2026 – Present)*
+- Supporting IT Governance compliance activities aligned with RBI guidelines for an NBFC client.
+- Tracking governance and audit observations, following up on updates, and maintaining project trackers.
+- Preparing and organizing governance documents, evidence, and reports to support audit and compliance activities.
+- Working across IT risk, regulatory compliance, and PMO processes alongside the governance team.
+
+**SOC Analyst Intern** — Gardiyan System Security Technologies *(May 2025 – Oct 2025)*
+- Followed SOC playbooks to investigate security alerts and documented findings in the ticketing system while meeting SLA timelines.
+- Reviewed 40–60 security alerts per shift in Splunk, escalated confirmed incidents, and mapped them to the MITRE ATT&CK framework.
+- Analyzed 500+ logs per shift from Windows, HTTP, SMTP, and authentication sources to support security investigations.
+
+**IT Operation Intern** — Honda Cars India Ltd *(May 2024 – June 2024)*
+- Assisted with user access provisioning and learned how IAM, PAM, and PIM are used to manage privileged access.
+- Helped set up and configure 20+ laptops and desktops, including OS installation, software setup, and user access.
+- Resolved 15+ basic network, system, and access-related issues across Windows devices and enterprise IT systems.
 
 ---
 
@@ -95,6 +119,15 @@ const himadri = {
 ![VMware Workstation](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
+---
+
+**Governance & Productivity**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 </td>
 <td width="50%" valign="top">
 
@@ -104,6 +137,13 @@ const himadri = {
 *Actively working on SOC-focused and cloud security projects to build strong detection and monitoring capabilities.*  
 
 🎯 *Focus:* Developing practical SOC skills with a strong cloud security foundation.
+
+---
+
+📋 **IT Governance & Compliance**  
+*Supporting RBI IT Governance compliance and audit documentation for an NBFC client as SPOC.*  
+
+🎯 *Focus:* IT risk, regulatory compliance, and governance documentation.
 
 ---
 
@@ -134,6 +174,7 @@ const himadri = {
 - Detection engineering using Sysmon and Windows Event Logs.
 - Threat detection and alert enrichment using threat intelligence APIs.
 - Expanding cloud security monitoring capabilities in Azure.
+- Tracking IT Governance compliance and audit documentation for an NBFC client.
 
 </td>
 </tr>
@@ -151,6 +192,8 @@ const himadri = {
 ✅ SOAR Playbook Automation  
 ✅ Cloud Security Monitoring (Azure/AWS)  
 ✅ Log Analysis & Threat Hunting  
+✅ IT Governance & Compliance Tracking  
+✅ Audit Documentation & Evidence Management  
 
 </div>
 
@@ -167,6 +210,7 @@ const himadri = {
 | [**Authlog**](https://github.com/himadri2324/Authlog) | Windows authentication log analysis using Elastic SIEM for brute-force detection. | Windows 10, Winlogbeat, Elasticsearch, Kibana, VMware, Ubuntu 22.04 |
 | [**SSHield**](https://github.com/himadri2324/SSHield) | Automated SSH brute-force detection and alerting using n8n automation workflows. | Ubuntu, VMware, Docker, n8n, JavaScript, Webhooks, Gmail OAuth2 |
 | [**AgenticSOC**](https://github.com/himadri2324/AgenticSOC) | Agentic SOC automates detection, enrichment, and response using Splunk, n8n, and threat intelligence APIs. | Python, Splunk, n8n, AbuseIPDB API, VirusTotal API, Slack, Jira, Virtual Machine (Azure) |
+| **CloudGRC Sentinel** *(In Progress)* | Cloud governance dashboard mapping Azure security findings to NIST CSF and ISO 27001 controls, visualizing compliance gaps and remediation priorities. | Azure, NIST CSF, ISO 27001, Python |
 
 </div>
 
@@ -211,6 +255,6 @@ const himadri = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
-💙 Open to SOC Analyst and Security Analyst roles. Let's connect and build more secure systems together.<br><br>
+💙 Open to SOC Analyst, Security Analyst, and IT Governance roles. Let's connect and build more secure, well-governed systems together.<br><br>
 If you found my projects useful, a ⭐ goes a long way!
 </div>
